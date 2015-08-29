@@ -16,3 +16,4 @@ local:xiao ming is a gay
 This is xiao ming 
 local:xiaoming is a boy .
 every body like dog
+remote:zhangsan is  a good dog
