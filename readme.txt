@@ -14,3 +14,4 @@ I will test a conflict,it's ok.
 
 local:xiao ming is a gay
 This is xiao ming 
+local:xiaoming is a boy .
